@@ -1,2 +1,2 @@
 # best-repo-ever
-First repository for SF Pathfinder Summer'22 Dev Track
+First repository for SF Pathfinder Dev Track '22
